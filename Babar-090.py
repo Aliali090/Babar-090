@@ -98,7 +98,7 @@ logo= f'''
          dP    dP__Yb  888888 88  8I  dY 
         d8888 dP""""Yb 88  88 88 8888Y"  
 {50*"-"}
-    Tool Version :     1.7.10
+    Tool Version :     10.10.10
     Thanks Alot  :     MR.ZAHID ALI
      Concted     :     03063849114 
 {50*"-"}'''
